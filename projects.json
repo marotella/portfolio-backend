@@ -34,7 +34,7 @@
         "type":"Solo",
         "description":"This Flask-React application was created to dicsover new recipes using the ingredients you have on hand, and reduce food waste. This application deepended my understanding of React, and allowed me to use my knowledge of Python.",
         "technologies": "HTML/CSS, TailwindCSS, JavaScript, Python, Flask, React, SQL, Heroku"
-      },
+      }
 
   ]
   

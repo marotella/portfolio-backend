@@ -33,6 +33,11 @@ app.get("/about", (req, res)=> {
     res.json(about)
 })
 
+//ROUTE TO SHOW Contact
+app.get("/contact", (req, res)=> {
+    res.json(about)
+})
+
 //PORT
 const PORT = process.env.PORT || 4000;
 
