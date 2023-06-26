@@ -5,7 +5,7 @@
     "git": "https://github.com/marotella/whats-for-dinner-frontend",
     "image": "/dinner.png",
     "type": "Solo",
-    "description": "This Flask-React application was created to dicsover new recipes using the ingredients you have on hand, and reduce food waste. This application deepended my understanding of React, and allowed me to use my knowledge of Python.",
+    "description": "This Flask-React application was created to dicsover new recipes using the ingredients you have on hand, and reduce food waste. This application deepended my understanding of React, and allowed me to use my knowledge of Python. It uses React to handle user authentication, and has strong error handling.",
     "technologies": "HTML/CSS, TailwindCSS, JavaScript, Python, Flask, React, SQL, Heroku"
   },
   {
@@ -14,7 +14,7 @@
     "git": "https://github.com/marotella/cave-a-vin-frontend/tree/main",
     "image": "/caveavin.png",
     "type": "Group",
-    "description": "This MERN application was created with a team to allow a used to discover new wines. It was my first collaborative project with React,and deepened my understanding of GitHub, Git, and working with external APIs.",
+    "description": "This MERN application was created with a team to allow a user to discover new wines. It was my first collaborative project with React,and deepened my understanding of GitHub, Git, and working with external APIs. I learned a lot from my colleagues throughout the process and can't wait to do more team projects in the future!",
     "technologies": "HTML/CSS, Bootstrap, JavaScript, Express, React, MongoDB, Heroku"
   },
   {
@@ -23,7 +23,7 @@
     "git": "https://github.com/marotella/relayCRUDApp",
     "image": "/relayicon.png",
     "type": "Solo",
-    "description": "This application was made to support project management. It helped me deepend my understading of Agile and scrum. It helped me to build understanding of routes, components, and EJS.",
+    "description": "This application was made to support a team with project management. It helped me deepend my understading of Agile and Scrum, as I researched how to best design the application. It also helped me to build understanding of routes, components, and EJS.",
     "technologies": "HTML/CSS, JavaScript, Express, Heroku"
   },
   {
@@ -32,7 +32,7 @@
     "git": "https://github.com/marotella/twoPlayerProject",
     "image": "/vanDamme.png",
     "type": "Solo",
-    "description": "This is a two player game, created around early ninities action stars. This was the first project I created, and helped me to learn DOM manipulation, Javascript, and Vanilla CSS.",
+    "description": "This is a two player game, created around early ninities action stars. This was the first project I created, and helped me to imrpove my understanding of DOM manipulation, Javascript, and Vanilla CSS. It is a great way to see how quickly my skills have improved in a short amount of time, when compared to my more recent projects.",
     "technologies": "HTML/CSS, JavaScript"
   }
 ]
