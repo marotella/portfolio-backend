@@ -14,7 +14,7 @@
     "git": "https://github.com/marotella/cave-a-vin-frontend/tree/main",
     "image": "/caveavin.png",
     "type": "Group",
-    "description": "This MERN application was created with a team to allow a user to discover new wines. It was my first collaborative project with React,and deepened my understanding of GitHub, Git, and working with external APIs. I learned a lot from my colleagues throughout the process and can't wait to do more team projects in the future!",
+    "description": "This MERN application developed in collaboration with a team, designed to enhance the user experience in discovering new wines. As my inaugural collaborative project using React, this endeavor not only expanded my proficiency in GitHub, Git, and integrating external APIs but also allowed me to learn invaluable insights from my colleagues. This experience has fueled my enthusiasm for future team projects, and I'm excited to embark on more collaborative endeavors in the future.",
     "technologies": "HTML/CSS, Bootstrap, JavaScript, Express, React, MongoDB, Heroku"
   },
   {
@@ -23,7 +23,7 @@
     "git": "https://github.com/marotella/relayCRUDApp",
     "image": "/relayicon.png",
     "type": "Solo",
-    "description": "This application was made to support a team with project management. It helped me deepend my understading of Agile and Scrum, as I researched how to best design the application. It also helped me to build understanding of routes, components, and EJS.",
+    "description": "This project is an application I developed to support team project management. Relay allowed me to delve deeper into Agile and Scrum methodologies while sharpening my skills in designing routes, components, and utilizing EJS. Explore this project to witness my expertise in creating efficient and intuitive applications tailored for seamless project management.",
     "technologies": "HTML/CSS, JavaScript, Express, Heroku"
   },
   {
@@ -32,7 +32,7 @@
     "git": "https://github.com/marotella/twoPlayerProject",
     "image": "/vanDamme.png",
     "type": "Solo",
-    "description": "This is a two player game, created around early ninities action stars. This was the first project I created, and helped me to imrpove my understanding of DOM manipulation, Javascript, and Vanilla CSS. It is a great way to see how quickly my skills have improved in a short amount of time, when compared to my more recent projects.",
+    "description": "Embark on a thrilling journey through the golden era of early nineties action stars with my two-player game. This initial project of mine showcases my skills around DOM manipulation, Javascript, and Vanilla CSS, as well as the tremendous growth I've achieved in a short span of time. Witness firsthand how my skills have evolved by comparing this game to my more recent projects, and experience the dynamic and engaging web experiences I can create.",
     "technologies": "HTML/CSS, JavaScript"
   }
 ]
