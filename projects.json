@@ -12,7 +12,7 @@
     "name": "JP Morgan Software Engineering Job Simulation with Forage",
     "live": "https://github.com/marotella/forage-jpmc-swe-task-3",
     "git": "https://github.com/marotella/forage-jpmc-swe-task-3",
-    "image": "/portfolio-frontend-1/public/jpmorganforage.jpeg",
+    "image": "/forage.png",
     "type": "Solo",
     "description": "Developed a stock trading dashboard. Built in Python, React, and TypeScript and utilizing the Perspective open source project, created data visualizations for complex financial data analysis.",
     "technologies": "TypeScript, JavaScript, Python, React"
